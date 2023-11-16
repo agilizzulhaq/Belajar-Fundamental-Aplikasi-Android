@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Github User</string>
+
+    <string name="tab_1">Followers</string>
+    <string name="tab_2">Following</string>
+    <string name="search">Search</string>
+    <string name="about">About Me</string>
+    <string name="bangkit">A283BSY2526</string>
+    <string name="iv_profile">Foto Profil</string>
+    <string name="followers">%d Followers</string>
+    <string name="following">%d Following</string>
+    <string name="toggleButton">Toggle Button</string>
+    <string name="favorite_user">Favorite User</string>
+    <string name="toggle_button">Toggle Button</string>
+    <string name="api_key">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</string>
+    <string name="switch_mode">Switch Mode</string>
+    <string name="favorite_menu">Favorite Menu</string>
+    <string name="light_theme">"Light Theme   "</string>
+    <string name="dark_theme">"Dark Theme   "</string>
+    <string name="setting">Setting</string>
+</resources>

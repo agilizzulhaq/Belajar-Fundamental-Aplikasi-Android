@@ -1,0 +1,15 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.GithubUserApp" parent="Theme.Material3.Dark">
+        <!-- Customize your dark theme here. -->
+        <item name="android:windowBackground">@color/black</item>
+    </style>
+
+    <style name="Theme.GithubUserApp" parent="Base.Theme.GithubUserApp" />
+
+    <style name="Theme.App.SplashScreen" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenAnimatedIcon">@drawable/ic_github_splash</item>
+        <item name="postSplashScreenTheme">@style/Base.Theme.GithubUserApp</item>
+        <item name="windowSplashScreenBackground">@color/black</item>
+    </style>
+</resources>
